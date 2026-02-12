@@ -5,8 +5,9 @@ Original Work:
 Author: InBasic
 
 Source: GitHub Repository
-
+1. https://github.com/inbasic/media-player
 Base Framework: Video.js
+
 
 Kundan's Enhancements (Pro-Button Version):
 While the core engine belongs to the original author, I have implemented the following "Next Level" upgrades to better suit power users and academic needs:
